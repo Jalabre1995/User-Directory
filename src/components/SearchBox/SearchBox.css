@@ -1,0 +1,44 @@
+
+header{
+    padding: 15px;
+    margin-top: 20px;
+    background-color: slategray;
+    padding-inline: 15;
+    border: solid;
+    font-family: fantasy;
+}
+.Searchheader {
+    background-color: ghostwhite;
+    margin-top: 5px;
+}
+
+.searhBttn{
+    margin-top: 40px;
+    border-radius: 20px;
+    letter-spacing: 1px !important;;
+    font-size: 10px;
+    background: #2b4162;
+    background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74% );
+    padding: 10px;
+}
+
+.inputBox {
+    margin-top: 40px;
+    padding: 5px;
+    width: 100%;
+    float: left 15px
+    ;
+}
+
+#employess.inputBox{
+    margin-top: 15px;
+}
+
+button.searchBttn{
+    margin-top: 10px;
+}
+
+h3.right-align.headerText{
+    margin-left: 15px;
+    font-size: 45px;
+}
