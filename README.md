@@ -13,12 +13,13 @@ react-moment
 
 # Challenges
 
-The promblems that occured during this project was getting heroku to work for. When I did git remote -v and did git remote add-origin, the files were building in heroku, but still not pushing through.
+The promblems that occured during this project was getting heroku to work for. When I did git remote -v and did git remote add-origin, the files were building in heroku, but still not pushing through. The error That I am recieving is the API.js file in my Utils folder is outside the src folder. However the util folder is inside the src folder, so I'm not sure whats going on. 
 
 # Future 
-There still more work that needs t be done for th eproject. The input and searchBtn are close to the right side fo the screen. And definatley workign on getting Heroku up and runnng.
-
-
+There still more work that needs to be done for the project. The input and searchBtn are close to the right side fo the screen. And definatley workign on getting Heroku up and runnng.
+# Deployment 
+install the dependcies and go on http://localhost:3000/ .
+Tryting to figure out how to deploy it in Heroku.
 
 
 
